@@ -1,0 +1,23 @@
+{
+  "blog.qmd": {
+    "blog.html": "3c16f4a3"
+  },
+  "index.qmd": {
+    "index.html": "3acc3f7a"
+  },
+  "posts/classification/classification.qmd": {
+    "classification.html": "357ef2c5"
+  },
+  "posts/clustering/clustering-checkpoint.qmd": {
+    "clustering-checkpoint.html": "fc17c998"
+  },
+  "posts/outlierdetection/outlier_detection-checkpoint.qmd": {
+    "outlier_detection-checkpoint.html": "852b6ce8"
+  },
+  "posts/probabilitytheory/probability_theory-checkpoint.qmd": {
+    "probability_theory-checkpoint.html": "f0f1e2e8"
+  },
+  "posts/regression/regression-checkpoint.qmd": {
+    "regression-checkpoint.html": "9679f68b"
+  }
+}

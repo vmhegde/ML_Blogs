@@ -1,0 +1,1 @@
+{"entries":[],"headings":["plot-languages-against-the-number-of-texts-in-that-language","preprocess-the-data","using-tf-idf-term-frequency-inverse-document-frequency","split-the-data-into-testing-and-training-sets","use-sgd-stochastic-gradient-descent-to-classify-and-make-predictions","prediction-function","data-visualization","interpretation"]}
